@@ -1,0 +1,1 @@
+Se analizaron datos de estudiantes de ciencias de la salud, realizando ETL y análisis EDA. Se aplicó KMeans para clustering, evaluando el número óptimo de clusters con el método del codo y silhouette score. Se empleó Regresión Logística para clasificar estudiantes en clusters identificados, evaluando con precisión y reporte de clasificación.
